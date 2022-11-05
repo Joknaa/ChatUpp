@@ -95,3 +95,6 @@ crashlytics-build.properties
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Firebase .Bundle file that is too large for GIT to push. It is not needed because this project is not building in Linux
+**/FirebaseCppApp-10_0_1.bundle
