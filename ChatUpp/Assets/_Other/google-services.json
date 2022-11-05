@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364441302402",
+    "project_id": "chatupp-e7ea9",
+    "storage_bucket": "chatupp-e7ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364441302402:android:b672a3995e176522290b9b",
+        "android_client_info": {
+          "package_name": "com.Jupithero.ChatUpp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364441302402-49g16e1juc4e86i138l8locetnlh9n5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWajbGHeFUjctjk-1fsldEFduqTNddbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364441302402-49g16e1juc4e86i138l8locetnlh9n5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
